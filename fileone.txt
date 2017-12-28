@@ -6,4 +6,15 @@ To persist the changes directly without putting the changes to the staging area
 
 Some more changes
 
-12 27 change
+Deleted some ttext
+
+
+if {{
+
+flag {
+
+some statements;;;;
+}else{
+
+//statements;
+}
