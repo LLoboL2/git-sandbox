@@ -7,3 +7,5 @@ To persist the changes directly without putting the changes to the staging area
 Some more changes
 
 12 27 change
+
+// The new changes will come here
