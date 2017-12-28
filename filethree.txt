@@ -1,0 +1,3 @@
+Adding a few lines of text.
+
+Committing changes from the my-project repo  .
