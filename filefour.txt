@@ -5,5 +5,5 @@ NOt completed feature yet.//More changes coming
 
 This is edited and been pushed to the remote repo.
 
-// I am in the middle of working on a feature and I need to merge the bug fix branch
+// I am in the middle of working on a feature. Big fix branch has been merged 
 
