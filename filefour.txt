@@ -5,3 +5,5 @@ NOt completed feature yet.//More changes coming
 
 This is edited and been pushed to the remote repo.
 
+
+//Fixed a bug and committing the changes in the bug fix branch
