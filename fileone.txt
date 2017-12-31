@@ -17,5 +17,6 @@ some statements;;;;
 //statements;
 }
 
-
-**Adding some new text 
+a=1;
+b=2;
+c=a*b;
