@@ -27,4 +27,6 @@ some statements;;;;
 }
 
 
-**Adding some new text 
+x=4;
+y=78;
+x/y
