@@ -1,3 +1,5 @@
 Adding a few lines of text.
 
-Committing changes from the my-project repo  .
+Committing changes from the my-project repo 
+
+We will stash this and pop it out later.

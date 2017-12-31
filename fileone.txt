@@ -26,7 +26,13 @@ some statements;;;;
 //statements;
 }
 
+a=1;
+b=2;
+c=a*b;
+c=a/b;
 
 x=4;
 y=78;
 x/y
+
+
