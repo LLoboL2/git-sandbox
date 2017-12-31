@@ -36,3 +36,5 @@ y=78;
 x/y
 
 x=a/c // Added divide rule
+
+//Addedthe modulus rule
