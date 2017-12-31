@@ -39,4 +39,9 @@ x=a/c // Added divide rule
 
 //Addedthe modulus rule
 
+
 ?? Adding lines on the master branch to check rebase
+
+Adding a few lines here to test rebase
+
+Committing changes to the  feature branch
